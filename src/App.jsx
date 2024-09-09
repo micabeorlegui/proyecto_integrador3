@@ -1,6 +1,6 @@
 function App() {
   return (
-    <p> Hola</p>
+    <p> Hola, cómo estás?</p>
   );
 }
 
